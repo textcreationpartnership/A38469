@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English-mans question whether imprisonment of the body, for debt and damages, be more advantagious [sic], or prejudicial to the English nation? Also an account of the number of persons that lies now in prison for debt in all the gaoles in England.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38469</idno><idno type="EEBO-CITATION">99828487</idno>
+  <idno type="VID">32914</idno>
+  <idno type="EEBO-PROQUEST">2240862281</idno>
+  
+            <idno type="STC">Wing E3101</idno>
+            <idno type="STC">ESTC R216766</idno>
+            <idno type="PROQUEST">99828487</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828487e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32914)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1964:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English-mans question whether imprisonment of the body, for debt and damages, be more advantagious [sic], or prejudicial to the English nation? Also an account of the number of persons that lies now in prison for debt in all the gaoles in England.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the year,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXII. [1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32914:1"/>
+            <p>THE English-mans QUESTION: WHETHER <hi>Imprisonment of the Body, for</hi> DEBT <hi>and</hi> DAMAGES, <hi>be more advantagious, or pre<g ref="char:EOLhyphen"/>judicial to the English</hi> NATION? ALSO An Account of the number of Persons that lies now in Prison for Debt in all the Gaoles in ENGLAND.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, MDCLXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:32914:2"/>
+            <pb n="1" facs="tcp:32914:2"/>
+            <head>THE ENGLISH-MAN'S Question, WHETHER Capture of the Body, for Debt and Damages, be more Advantagious or Prejudicial to the <hi>ENGLISH NATION.</hi>
+            </head>
+            <p>IF the Multitude of Industrious Subjects be the Glory of a King, and the Strength of his Kingdom; What<g ref="char:EOLhyphen"/>soever tendeth to the decreasing of People, depressing of Industry, or rendring men Useless to their Coun<g ref="char:EOLhyphen"/>trey, cannot be of good Consequence, especially in an un<g ref="char:EOLhyphen"/>derpeopled Government.</p>
+            <p>The Wisest of Kings sends the Lazy person to the Pis<g ref="char:EOLhyphen"/>mire to be taught Industry; but we send (it may be not all designedly) Thousands of Industrious Persons to the Dungeon, to be encouraged in Laziness, and to practise, without shame, all manner of Vices.</p>
+            <p>I know the Man that will not trust any great Matter, but upon Security (though in Trade,) especially to Persons that are not Frugal and Industrious; And will not keep two Sorts of Men in Prison, <hi>Viz.</hi> Such as Cannot, and such as Will not Pay; but rather be Prisoners: For, quoth he, to him that Cannot, it is extream Cruelty; And to him that Will not, it is but Revenge, Folly, and Robbing the King<g ref="char:EOLhyphen"/>dom of a Subject, who, at Liberty, would be of more Use to the Publick, than a Man buried live; (and Six months Imprisonment is more than sufficient to endow a man with Confident Injustice.) This is his <hi>Paradox:</hi> Against which, doubtless, much may be said, and I might be very hard put to it, to find an Expedient for all the Mischiefs that
+<pb n="2" facs="tcp:32914:3"/>some pretend would happen, if Unjust Men might not be Arrested and Imprisoned. But this Nation is not without Men, so Learned, Knowing and Vertuous; as (without Wrong to the Honourable and Necessary Professors of the Law) to propound the Remedy (and some good men have Ingeniously offered at it;) Since we do not onely think our selves Wiser than our Fore-Fathers, but do in every Age increase <hi>Knowledge.</hi> But if it were not so, that which hath been practised, may be supposed to be practicable.</p>
+            <p>I am not Learned enough to give a perfect accompt of what induced former Ages not to permit Capture of the Body in Debt and Damages: but I have heard, and sound Reason agreeth with it, That they Esteemed the Body the most precious thing, and would not suffer the Common-Wealth to be robbed of its meanest Member.</p>
+            <p>Neither must you expect from me (that am no Lawyer) what they did, in those times, to make Fools Wise, and Knaves Honest: But I can tell you, That those Govern<g ref="char:EOLhyphen"/>ments have not the least Flourished, where the Prisons have been most empty: and yet the People no less inclined (by Nature) to Knavery and Folly than we.</p>
+            <p>But some may possibly tell me, That in such Govern<g ref="char:EOLhyphen"/>ments they do (it may be) not permit Capture till after Judgment, and then also oblige the Plaintiff to maintain the Defendant in Prison, (and that with some regard to his Quality.) They have publick Registers, so as mens Estates are Visible, or not hard to be laid hold on, for payment of their just Debts, and fraudulent Trusts and Conveyances will not there avail; by which means Creditors are rendred less Cruel, and Debtors are not onely made honest and wise without Capture of the Body, but men that Trust may be informed what they do: and not like many Fools among us, (for Covetousness of Customers and Chapmen) let men run in their debt, upon simple hopes, not good Grounds, of being ever paid: Which Folly often bringeth both Debtor and Creditor to a Prison; for men, like Nine<g ref="char:EOLhyphen"/>pins, tip one another down.</p>
+            <p>If any will throw such Objections in my Teeth, I must ingenuously confess that I cannot answer them directly;
+<pb n="3" facs="tcp:32914:3"/>but I do humbly refer them to all good men in Authority: and if they get no Satisfaction there, let them peep into the best of our Debt-Prisons; and behold their Useful Employments and Heavenly Conversation. Step but to the <hi>Kings-Bench,</hi> and the <hi>Fleet,</hi> (those Two Famous <hi>Academies</hi> of the Nation) and you may have the Names of Thousands of simple Creditors, That can tell you what Time and Money they have spent, and how little they have got (Sweet Revenge excepted) by Imprisoning their Debtors; and how much better Terms they might have had before, than after their Imprisonment. Of which you may gather something from the Witty Answer of a Cook; to whom some Prisoners grumbled for the Dearness of his Meat; <hi>Why,</hi> quoth he, <hi>you need not grudge it, for you do not spend your own, but your Creditors Money.</hi>
+               <note place="margin">A Witty saying.</note> And yet some Credi<g ref="char:EOLhyphen"/>tors when they have got their Debtors fast, are as proud of it, as an Ass of a wrought Bridle.</p>
+            <p>A man clapt in Prison, that owes not half so much as he himself is worth, or hath owing to him; is not onely dis<g ref="char:EOLhyphen"/>credited, but ruined: for his business is neglected and con<g ref="char:EOLhyphen"/>founded: Those that owe him will not easily pay; and the Prison being chargeable, and falling a man with Distraction, he takes what he can get: But the Plaintiff rarely gets any thing but <hi>Hearty Curses,</hi> which often prove effectual.<note place="margin">Effectual Cursing.</note> So here is an Industrious man, and all that depend upon him, brought to Penury and Misery, to augment the Army of Beg<g ref="char:EOLhyphen"/>gars and Idle Persons: and all to gratifie a foolish Credi<g ref="char:EOLhyphen"/>tor, if not a malicious one; and it may be he is but a preten<g ref="char:EOLhyphen"/>ded Creditor neither; that having malice enough, and more Money, or Law wit, than the Defendant, hath got him into a Noose of Law, which the Teeth of the most Innocent are not able to bite asunder, without the powerful help of Gold.</p>
+            <p>Our Laws, in matters of Life and Death, are highly com<g ref="char:EOLhyphen"/>mended by all Nations: but our proceedings in Debt and Damages exceedingly condemned. And it seemeth strange to some Rational Men, That since the Liberty of the Body is of so much publick and private Concernment; any Law or Custome should permit its restraint, before it be Judicially
+<pb n="4" facs="tcp:32914:4"/>proved, that the Defendant is a Debtor or a Trespasser. Nor are such men satisfied with that ordinary Apologie, That if the Body were not arrestable before Judgment ob<g ref="char:EOLhyphen"/>tained, the Defendant might run away. For they say, that hardly one Arrest of Twenty, but is either Causeless, for little Cause, or to small purpose; and oftentimes <hi>A.</hi> arrested <hi>B.</hi> onely because <hi>B.</hi> arrested <hi>A;</hi> and both lay down the Cudgels when they have spent the Money that both (<hi>Great Fooles!</hi>) laboured hard for; and which, it may be, their Fa<g ref="char:EOLhyphen"/>milies do want. They adde, That a Debtor may as well fly before an Original Writ, or Action, as after Judgment ob<g ref="char:EOLhyphen"/>tained: and that he that Can and Will run away, may well be suspected to want Ability or Will, to make satisfaction. He that Arrests a poor Debtor is Cruel; and that Creditor is his Brother, that thinks he keepeth the Carkass of a Rich man in Prisón, who will not pay; if it be true, That he that hath Money is a Prisoner at large.</p>
+            <p>Let a Sober man examine what Families of peaceable people have left their Countrey; and how many good Strangers, that would dwell among us, do avoid us for our Practises, under the Tolerations of Capture, in Debt and Damages; before a Judicial Hearing. They cannot ap<g ref="char:EOLhyphen"/>prehend it to be very just, that a thing of so much Conse<g ref="char:EOLhyphen"/>quence as the Liberty of a Man, should be taken Violently from him, upon bare pretences and false Informations, be<g ref="char:EOLhyphen"/>fore the Judge and Jury have examined and adjudged the matter; for till then the truth cannot appear; and that which appeareth not, is as if it were not.</p>
+            <p>Let us arm an Accompt of what it is, to drive away but 15000 Persons out of a Nation, and hinder but a quar<g ref="char:EOLhyphen"/>ter part of that Number from coming in. Although in some Cases Seven Years be esteemed the age of a man, Yet may it without very great difficulty be allowed me, That we live one with another 20 years. As also that few Men or Women consume less than the Value of Twenty pounds <hi>per annum.</hi> But admit it one with another at that Rate; (Some may spend less, but many much more) Then every Year that so many persons are absent, the Kingdome loseth 400000 l. in its Consumption of Food and Rayment; and
+<pb n="5" facs="tcp:32914:4"/>if they continue absent, I pray the Ingenious Reader to help me in the Supputation of so great a summe (besides the Generation and Employment) as so many persons kept at home, and in vited from abroad, would amount unto: For my little Arithmetick beginneth to fail me, and to leave me in Admiration about the Consequences of so Weighty a Notion. If then the Encrease of People be the onely Way to raise Lands, and to have Rents well paid: the way to keep men in their own Country, and to invite Strangers from abroad; is to remove so great a discouragement, as this Violence, used to the persons of men.</p>
+            <p>If notwitstanding all this, any will say that Captures are necessary, for that all that are Arrested go not to Pri<g ref="char:EOLhyphen"/>son, and that the Fear of it maketh many wise and honest men; I say farther, That good men lose, suffer, and give away something; rather than go to Law, either as Plain<g ref="char:EOLhyphen"/>tiff or Defendant; and so the Practice of Arresting the Body is of no great Benefit to them. Nay rather a hurt, for the Complaint of the Prophet may not be improperly taken up in our dayes; <hi>He that departeth from Iniquity, maketh himself a Prey.</hi>
+            </p>
+            <p>I have heard a Man say, (but surely wickedly enough) <hi>I can have my Ends of such a One, for he loveth not Trouble.</hi>
+               <note place="margin">A Wicked Saying.</note> It may be true, That by the Fear of Arrests, some are frightned into caution, frugality and honesty; but it will be hard to make out, that it doth countervail the Villanies that are committed under the Authority of Arresting men for very small matters, and in great Fob Actions, out of meer Malice and Revenge, for which every one cannot find Baile, and Money to defend himself. The Man is known that was Arrested at the Suit of the Chamberlain of <hi>London</hi> (who knew not of it) in 10000 li. upon a pretended for<g ref="char:EOLhyphen"/>feiture of a Recognizance for exhibiting of an Inventory; The Defendant took his <hi>Habeas Corpus</hi> (for which and Juries, let us be thankful) in the Common Pleas: and,<note place="margin">A Mercy.</note> as there was no ground, so the Plaintiff never proceeded: and nevertheless the Defendant was advised he could have no damages. But such Causeless Actions are so frequent, that he that is a man of business, and is a stranger to them, may
+<pb n="6" facs="tcp:32914:5"/>be easily admitted. Master of the <hi>Ignoramus</hi> Office.</p>
+            <p>
+               <note place="margin">Inquire at the Crown-Office.</note>If it be true, that we finde upwards of 50000 Persons constantly in Prison for Debt and Damages, besides Comers and Goers, and such as Death delivereth from the Cruelty and Imprudence of their Adversaries; What Recompence can the Kingdome have for the depriving it of so many Members? What Confusion and Misery is there among so many wretched Persons and their Families? How can a Countrey be without store of Beggars, Vagrants and Rogues, till so great an Inconvenience find a Remedy? And what pity is it, That in an Ingenious Nation (boasting of Know<g ref="char:EOLhyphen"/>ledge, Vertue and Religion) the Expedient should yet be to seek? Or if found, not put in practice.</p>
+            <p>Is there no Way to make discovery of unjust mens Estates, to distinguish the Poor from the Rich? No Courts of Conscience (like that in <hi>London</hi>) to be erected in conve<g ref="char:EOLhyphen"/>nient places, for decision of small Matters, and to prevent hurrying of poor people to Prison? No perswading of us to wear our own Manufactures, and employ Idle persons and such as will not pay their Debts, but rather lye in Pri<g ref="char:EOLhyphen"/>son? Are all Large Charities put into private mens pockets, or divided amongst the Overseers? Do Ships want no Sea<g ref="char:EOLhyphen"/>men, nor the Sea-Coasts no Fisher-men? No Harbours to be recovered, nor Channels to be cleansed? No Rivers to be Cut or made Navigable? No High-Wayes to be mended and made more passable for Travellers? No Timber to be planted, or Grounds to be improved, or better secured from the Sea? No Publick good Works to be done at a very Cheap Rate? Shall this Great Army be ever uselss, and lye idle, to infect a Brave Nation? Is there 8. or 9000 Parishes that pay (it may be) 800000 li. <hi>per annum</hi> to their Poor; and Cannot a Stock be raised to imploy them and other Idle People!</p>
+            <p>Can that Prisoner justly Complain, that hath nought to pay, if he be employed to get Food and Rayment? Would not many idle debauch'd Prisoners, that have concealed Estates (but will not pay,) rather Vomit all they had than Work? And if a Debtor will upon Oath give an Accompt of all he hath, directly or indirectly, and assign the same to
+<pb n="7" facs="tcp:32914:5"/>be divided amongst his Creditors; ought they not to accept it, and he be discharged if they refuse it? All Evils will not be prevented by any Expedient: Some men will suffer wrongfully whilest there is any Vertue to be exercised; But Nature is an utter Enemy to all Idleness. And surely those Nations are more Ingenious and Just to the Lawes of Na<g ref="char:EOLhyphen"/>ture than We; that rather permit a man and all that be<g ref="char:EOLhyphen"/>longeth to him, to be sold, for debt or petty Crimes, than shut him up: to be a burthen to himself and his Country; and to make his Wife and Children to encrease the Stock of Beggars.</p>
+            <p>A Sober knowing man will judge it no great mistake, if I compute the Number of Prisoners for Debt, Damages and petty Crimes; Beggars, Vagrants, and Idle poor people of this Nation, that might be employed (for most that are not heart-sick, even the Blind and the Lame, may do something) to amount unto near 200000 Persons; which employed, and earning but a half-peny a day (one with another) more than their cheap Food and Rayment, would encrease the Kingdoms Stock above One hundred thousand pounds <hi>Sterling per annum,</hi> besides all the other Profits and Conve<g ref="char:EOLhyphen"/>niences, that would necessarily wait upon so good a Work. Let the Wise <hi>State-Physitians</hi> but prescribe Antidotes against this Poyson of Captures and Idleness; the Prisons shall be empty, Robbing and Begging will be Rarities; <hi>English-men</hi> will stay at home, and Strangers will flock to us from abroad: Strength and Wealth will abound. We shall be able to Lend, and have no need to Borrow.</p>
+            <p>If you esteem not what I say, Ask but the Butter-Boxes, What Wealth and Strength they acquired (both abroad and at home) by inviting, naturalizing, granting Freedoms in Cities for a small matter, and encouraging all Industrious persons; and Employing or Chastizing <hi>Messieurs les pares<g ref="char:EOLhyphen"/>seux.</hi>
+            </p>
+            <p>Why should a Rational Man Wonder to behold the Houses stand empty, and (in time) the Trade of <hi>Londons</hi> Famous City, dwindle to nothing, (or her whole Body run into Skirts) whilst her Citizens (and some of the Chiefest) be buried alive in Prisons. Whilst she banisheth Foreign<g ref="char:EOLhyphen"/>ers,
+<pb n="8" facs="tcp:32914:6"/>and cloggeth her Freemen with Oaths (which they rarely keep) and Spend-thrift Offices, that ought to be per<g ref="char:EOLhyphen"/>formed at her Publick Charge, which would furnish her with Choice of Brave Men, fit for such Employments.</p>
+            <p>I will not undertake, because I judge it no easie matter, to perswade her Shop-keepers, and ordinary Trades-men, out of this Fancy; That the more there are of their way of dealing, the worse it is for them. But let them look into the Suburbs, and also examine, Whether this be not evidently true, That where there are a Multitude of people, there the Consumption is augmented, and every one maketh business for his Neighbour. Where there is greatest Choice, thither flock the most buyers.</p>
+            <p>And here I cannot but commend and Value every man that hath a Trade or Calling, (be it never so mean) and is Industrious, Sober, Honest, and Thrifty therein. For he is not onely a Bee in the Great Hive of his Country, but is a Comfort to himself and Relations; honoured of his Family, and respected of all good men; (I deem him also more happy, than he that liveth only upon his Revenues) where<g ref="char:EOLhyphen"/>as the Idle person is a Burthen to the Earth, and his own Tormentor.<note place="margin">
+                  <hi>Prov.</hi> 14.</note>
+               <hi>In all Labour,</hi> saith the Wise man, <hi>there is pro<g ref="char:EOLhyphen"/>fit,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 18.</note>
+               <hi>but the talk of the Lips tendeth only to penury. Also he that dealeth with a slack hand, is Brother to him that is a Waster.</hi> From whence may be gathered, how erronious the Opinion of some is, That a Prodigal Person is a good Common-Wealths-man. If Idleness, Pride and Vanity, lessening and consuming of Patrimonies, and Beggaring of good Fami<g ref="char:EOLhyphen"/>lies, be the Honour and Profit of a Nation, the Sages of all Times were Block-heads, and much mistaken in their Vertuous Precepts and Examples. A good Man will ab<g ref="char:EOLhyphen"/>horr Covetousness, because it is Idolatry; and a Prudent Man will shun Prodigality, because it is the Fore-runner of Want and Misery.</p>
+            <p>I conclude my Notion with part of another that I had from a Friend, upon the Subject of Captures. It was his Opinion, That it would not be an unsuitable punishment for men able and unwilling to pay their Just Debts, and whose Estates could not be found, after Judgment obtain<g ref="char:EOLhyphen"/>ed,
+<pb n="9" facs="tcp:32914:6"/>and Execution awarded for the Sum really due, to spare their Carkasses, and make it lawful for the Trustees (of their concealed Estates) and Debtors of such Persons, to be for ever discharged of their Trusts and Debts, so far as double such Execution should amount unto, upon bringing into Court, the Sum in such Execution contained, to be paid to the Plaintiff. His meaning was, That such Trustees and Debtors to unjust men, that would lye in Prison, rather than pay a real Debt, should have to themselves one half of what they discovered to the Plaintiff; and such Trustees and Debtors to be some way punishable if they did not make Discovery. I cannot say that I approve it through<g ref="char:EOLhyphen"/>ly, for great Inconveniences might arise by it (if not well qualified:) Howbeit, the Law given the <hi>Jewes</hi> ordaineth the Theef to restore Two-fold: and if a man that is able,<note place="margin">
+                  <hi>Exo.</hi> 22.</note> but unwilling, to pay his Just Debts, be deemed worse than a Robber; Some think it cannot be too great Seve<g ref="char:EOLhyphen"/>rity, to make him pay or lose the Double of what he would obstinately defraud his Creditor, who, it may be, is thereby brought to a Morsell of Bread, and a Spoonful of Water. Others (though Sober Men) seem yet more ex<g ref="char:EOLhyphen"/>travagant, when they imagine, That scarce any Remedy could be Universally Worse, than the present Evil Disease of Captures.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
